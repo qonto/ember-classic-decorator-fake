@@ -1,0 +1,20 @@
+{
+  "name": "ember-classic-decorator",
+  "version": "3.0.0",
+  "description": "Fake of ember-classic-decorator",
+  "keywords": [
+    "ember-addon"
+  ],
+  "repository": "https://github.com/qonto/ember-classic-decorator-fake",
+  "license": "MIT",
+  "author": "",
+  "dependencies": {
+    "babel-plugin-filter-imports": "^4.0.0"
+  },
+  "engines": {
+    "node": "12.* || 14.* || >= 16"
+  },
+  "ember": {
+    "edition": "octane"
+  }
+}
